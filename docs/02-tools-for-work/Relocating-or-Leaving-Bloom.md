@@ -1,5 +1,5 @@
 # Relocating
-We understand that life happens and sometimes you may need to relocate. We ask that —— whenever possible —— you give us at least 6 weeks notice of a planned move. This notice will give us the time we need to complete any required local and state tax registrations so that taxes are computed correctly. It also helps us avoid issues with trying to do payroll and insurance gymnastics if we don’t get all of the required registrations done in time.
+We understand that life happens and sometimes you may need to relocate. We ask that — whenever possible — you give us at least 6 weeks notice of a planned move. This notice will give us the time we need to complete any required local and state tax registrations so that taxes are computed correctly. It also helps us avoid issues with trying to do payroll and insurance gymnastics if we don’t get all of the required registrations done in time.
 
 We also need to make sure it won’t cause issues with your client and/or team. This is unlikely, but it’s important that we check.
 
