@@ -4,7 +4,8 @@ Here's more about the equipment and tools you will be using with us to GSD.
 
 ## Computer/hardware
 Bloom is a bring-your-own-device workplace — we each bring the equipment of our choice to enable work and particularly remote work (e.g. web cams). 
-We work hard to make sure the collaboration tools we use are compatible with all devices so that you can keep working with whatever system suits you best. 
+We work hard to make sure the collaboration tools we use are compatible with all devices so that you can keep working with whatever system suits you best.
+
 *Note: [We provide a tech stipend for all salaried Bloom folks](https://bloom-handbook.readthedocs.io/en/latest/03-policies/benefits/).*
 
 ## Email
@@ -12,14 +13,15 @@ When you join Bloom (yay), you’ll be issued a google-based @bloomworks.digital
 
 This will be the main address you use to more formally communicate with our partners on projects. 
 
-**Setting up your email signature**
+### Setting up your email signature
 [Please use this email template](https://docs.google.com/document/d/1RaK-lQacImYNa-fyfDrY5iIvU5X7gSm1bq0ilfa1tBI/edit?usp=sharing). If you have any questions, Slack Sofia. 
 
 ## Slack
 Our central slack workspace is govbloomdigital.slack.com which you can [access by signing up for Slack](https://join.slack.com/t/govbloomdigital/signup). For an introduction to using Slack, [check out Slack's guide to getting started](https://slack.com/help/articles/218080037-Getting-started-for-new-members).
+
 Please keep in mind that some Slack channels and workspaces may include our partners/clients. 
-For some projects, we may join teams on separate workspaces. We’ll grant you access to those on a project-by-project basis. 
-   
+
+For some projects, we may join teams on separate workspaces. We’ll grant you access to those on a project-by-project basis.    
 
 Here's a quick intro to our internal channels: 
 - Bloomers: Where we post new HR policies, etc. 
