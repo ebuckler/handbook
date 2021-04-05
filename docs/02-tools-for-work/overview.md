@@ -76,7 +76,7 @@ This is the system we use to process payroll, and where you’ll request paid ti
 ## Harvest (for both employees and contractors)
 This is the platform we use for expenses and time tracking. In order for Bloom to stay in compliance with contracting requirements, **you must log your hours on a daily basis**. Please make sure to add this to your regular daily workflow. 
 
-This is also where you will log any expenses you incur for work travel. [Please see our Trello card on how billing works](https://trello.com/c/MDeCS2Sd) for more details on billing categories and invoices. 
+This is also where you will log any expenses you incur for work travel. For more details on billing categories and invoices, [please see our Trello card on how billing works](https://trello.com/c/MDeCS2Sd). 
 
 ## T Sheets (for State of CT work only)
 This is the platform our partners at Skylight use for time tracking. Each day, you’ll need to log the hours you worked related to any State of CT projects.
