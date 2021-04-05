@@ -24,10 +24,13 @@ Please keep in mind that some Slack channels and workspaces may include our part
 For some projects, we may join teams on separate workspaces. We’ll grant you access to those on a project-by-project basis.    
 
 Here's a quick intro to our internal channels: 
-- Bloomers: Where we post new HR policies, etc. 
-- Familiars: For sharing cute pictures and stories of our favorite people (kids, partners, pets, you name it)
-- General: For company-wide announcements and work matters
-- Good Reads: For sharing relevant articles, events, and other pieces of interest
+- **Bloomers** — Where we post new HR policies, etc. 
+
+- **Familiars** - For sharing cute pictures and stories of our favorite people (kids, partners, pets, you name it)
+
+- **General** - For company-wide announcements and work matters
+
+- **Good Reads** - For sharing relevant articles, events, and other pieces of interest
 - Hiring: A space to share hiring ideas and discuss logistics — *NOT* to be used to discuss individual candidates 
 - Random: When you're not sure where to share it
 - Water Cooler: Our equivalent for the company break room 
