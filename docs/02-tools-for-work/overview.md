@@ -23,7 +23,8 @@ Please keep in mind that some Slack channels and workspaces may include our part
 
 For some projects, we may join teams on separate workspaces. We’ll grant you access to those on a project-by-project basis.    
 
-Here's a quick intro to our internal channels: 
+Here's a quick intro to our internal channels:
+
 - **Bloomers** — Where we post new HR policies, etc. 
 
 - **Familiars** - For sharing cute pictures and stories of our favorite people (kids, partners, pets, you name it)
@@ -31,16 +32,26 @@ Here's a quick intro to our internal channels:
 - **General** - For company-wide announcements and work matters
 
 - **Good Reads** - For sharing relevant articles, events, and other pieces of interest
-- Hiring: A space to share hiring ideas and discuss logistics — *NOT* to be used to discuss individual candidates 
-- Random: When you're not sure where to share it
-- Water Cooler: Our equivalent for the company break room 
-- BD General: Business development team discussion space, especially for proposals
-- BD Opportunities: Sharing RFX's of interest
-- Bloom Comms: Updates on what Bloom is promoting, which may include Pollinator posts and other news that we'll ask you to share with your networks
-- Bloom Website: For BW website updates
-- Data Viz: For all things data visualization related
-- Lurkers: Some folks like to be in our Slack but aren't employees (maybe they will be one day or maybe they were in the past)
-- Tech: Github help, security policy questions, anything tech related
+
+- **Hiring** – A space to share hiring ideas and discuss logistics (*NOT* to be used to discuss individual candidates)
+
+- **Random** - When you're not sure where to share it
+
+- **Water Cooler** - Our equivalent for the company breakroom 
+
+- **BD General** - Business development team discussion space, especially for proposals
+
+- **BD Opportunities** - Sharing RFX's of interest
+
+- **Bloom Comms** - Updates on what Bloom is promoting, which may include [Pollinator](https://medium.com/pollinator) posts and other news that we'll ask you to share with your networks
+
+- **Bloom Website** - For BW website updates
+
+- **Data Viz** - For all things data visualization related
+
+- **Lurkers** - Some folks like to be in our Slack but aren't employees (maybe they will be one day or maybe they were in the past)
+
+- **Tech** - Github help, security policy questions, anything tech related
 
 ## Trello
 We use Trello to collaborate on tasks for our various projects. Each project has a separate board which we'll give you access to when you join. Each team will use Trello a bit differently, so please defer to your project lead for any team norms on how to use the project board. 
