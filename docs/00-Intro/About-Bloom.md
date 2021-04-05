@@ -18,11 +18,11 @@ At Bloom, we've made it our business to be different. We're here to help navigat
 
 ### The best adventures start out as a spacewalk.
 
-We embrace uncertainty and ambiguity since this is how things worth doing start -— one step at a time, into the unknown.
+We embrace uncertainty and ambiguity since this is how things worth doing start — one step at a time, into the unknown.
 
 ### Technology is for everyone.
 
-We use technology to drive towards outcomes, not outputs, and strive for everyone to know how to build it, change it, and adapt it to withstand the future. We'll always prioritize the useful thing -— even if it’s not tech -— over something that integrates with your smartwatch.
+We use technology to drive towards outcomes, not outputs, and strive for everyone to know how to build it, change it, and adapt it to withstand the future. We'll always prioritize the useful thing — even if it’s not tech — over something that integrates with your smartwatch.
 Be humble. Show up ready to listen.
 
 We're a team that shows up with our whole heart and whole brain. We learn from one another, from our clients, and users.
