@@ -5,7 +5,7 @@ Here's more about the equipment and tools you will be using with us to GSD.
 ## Computer/hardware
 Bloom is a bring-your-own-device workplace — we each bring the equipment of our choice to enable work and particularly remote work (e.g. web cams). 
 We work hard to make sure the collaboration tools we use are compatible with all devices so that you can keep working with whatever system suits you best. 
-*Note: we provide a tech stipend for all salaried Bloom folks. [Find out more about the tech stipend here](https://bloom-handbook.readthedocs.io/en/latest/03-policies/benefits/).*
+*Note: we provide a tech stipend for all salaried Bloom folks. [Find out more about the tech stipend](https://bloom-handbook.readthedocs.io/en/latest/03-policies/benefits/).*
 
 ## Email
 When you join Bloom (yay), you’ll be issued a google-based @bloomworks.digital email address. Besides being a useful communication tool, it’ll also serve as **your entry point to all the other tools**. 
