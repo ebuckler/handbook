@@ -3,7 +3,8 @@
 Here's more about the equipment and tools you will be using with us to GSD. 
 
 ## Computer/hardware
-Bloom is a bring-your-own-device workplace — we each bring the equipment of our choice to enable work and particularly remote work (e.g. web cams). 
+Bloom is a bring-your-own-device workplace. You're responsible for getting the equipment that will help you complete your work and participate fully in our remote work environment (e.g., you'll need a web cam). 
+
 We work hard to make sure the collaboration tools we use are compatible with all devices so that you can keep working with whatever system suits you best.
 
 *Note: [We provide a tech stipend for all salaried Bloom folks](https://bloom-handbook.readthedocs.io/en/latest/03-policies/benefits/).*
@@ -27,39 +28,42 @@ Here's a quick intro to our internal channels:
 
 - **Bloomers** — Where we post new HR policies, etc. 
 
-- **Familiars** - For sharing cute pictures and stories of our favorite people (kids, partners, pets, you name it)
+- **Familiars** — For sharing cute pictures and stories of our favorite people (kids, partners, pets, you name it)
 
-- **General** - For company-wide announcements and work matters
+- **General** — For company-wide announcements and work matters
 
-- **Good Reads** - For sharing relevant articles, events, and other pieces of interest
+- **Good Reads** — For sharing relevant articles, events, and other pieces of interest
 
-- **Hiring** – A space to share hiring ideas and discuss logistics (*NOT* to be used to discuss individual candidates)
+- **Hiring** — A space to share hiring ideas and discuss logistics (*NOT* to be used to discuss individual candidates)
 
-- **Random** - When you're not sure where to share it
+- **Random** — When you're not sure where to share it
 
-- **Water Cooler** - Our equivalent for the company breakroom 
+- **Water Cooler** — Our equivalent for the company breakroom 
 
-- **BD General** - Business development team discussion space, especially for proposals
+- **BD General** — Business development team discussion space, especially for proposals
 
-- **BD Opportunities** - Sharing RFX's of interest
+- **BD Opportunities** — Sharing RFX's of interest
 
-- **Bloom Comms** - Updates on what Bloom is promoting, which may include [Pollinator](https://medium.com/pollinator) posts and other news that we'll ask you to share with your networks
+- **Bloom Comms** — Updates on what Bloom is promoting, which may include [Pollinator](https://medium.com/pollinator) posts and other news that we'll ask you to share with your networks
 
-- **Bloom Website** - For BW website updates
+- **Bloom Website** — For BW website updates
 
-- **Data Viz** - For all things data visualization related
+- **Data Viz** — For all things data visualization related
 
-- **Lurkers** - Some folks like to be in our Slack but aren't employees (maybe they will be one day or maybe they were in the past)
+- **Lurkers** — Some folks like to be in our Slack but aren't employees (maybe they will be one day or maybe they were in the past)
 
-- **Tech** - Github help, security policy questions, anything tech related
+- **Tech** — Github help, security policy questions, anything tech related
 
 ## Trello
 We use Trello to collaborate on tasks for our various projects. Each project has a separate board which we'll give you access to when you join. Each team will use Trello a bit differently, so please defer to your project lead for any team norms on how to use the project board. 
-For generic information on using Trello, [see Trello'sgetting started guide](https://trello.com/en-US/guide/trello-101).
+
+For generic information on using Trello, [see Trello's getting started guide](https://trello.com/en-US/guide/trello-101).
+
 If you need to be invited to our organization, ask JJ or Sofia for help. 
 
 ## Zoom
 You can use whatever video conferencing tool is easiest for team-related calls, but we generally use Zoom for more formal calls with partners. Sometimes you will need to adjust to what a partner uses (e.g., Microsoft Teams).
+
 In general, team members will receive free account access, so your meeting times will be limited to 40 minutes. If you think your meeting will need to run longer, contact Sofia so that she can arrange a meeting from a paid account. 
 
 ## Mural
@@ -71,10 +75,11 @@ This is the system we use to process payroll, and where you’ll request paid ti
 
 ## Harvest (for both employees and contractors)
 This is the platform we use for expenses and time tracking. In order for Bloom to stay in compliance with contracting requirements, **you must log your hours on a daily basis**. Please make sure to add this to your regular daily workflow. 
-This is also where you will log any expenses you incur for work travel. Please see the [How Billing Works Trello card](https://trello.com/c/MDeCS2Sd) for more details on billing categories and invoices. 
+
+This is also where you will log any expenses you incur for work travel. [Please see our Trello card on how billing works](https://trello.com/c/MDeCS2Sd) for more details on billing categories and invoices. 
 
 ## T Sheets (for State of CT work only)
 This is the platform our partners at Skylight use for time tracking. Each day, you’ll need to log the hours you worked related to any State of CT projects.
 Skylight will send you an invitation to the platform separately. If you don't see it on your first day, contact Sofia. 
 
-*Note: For any questions about access to these tools - or to suggest other tools - please contact Sofia.*
+*Note: For any questions about access to these tools — or to suggest other tools — please contact Sofia.*
