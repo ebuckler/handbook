@@ -1,8 +1,8 @@
-# Bloom Works Resume and Portrait Instructions
+# Bloom Works resume and portrait instructions
 
-Now that you're part of the team, we want to add you to our team page!
+Now that you're part of the team, we want to add you to the Bloom website!
 
-## How to get your photo on the BloomWorks Team Page:
+## How to get your photo on the Bloom Works "Team" page:
 
 * [Check out the bios on our website](https://bloomworks.digital/team) to get a general feel for what we’re serving up already.
 * If you have an image that's similar in layout and vibe, [email it to Adam](mailto:adam@bloomworks.digital) or send it to him on Slack. 
