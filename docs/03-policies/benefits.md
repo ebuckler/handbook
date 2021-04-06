@@ -8,8 +8,8 @@
 - Holiday: closed between Dec 24 and Jan 01
 - Floating holiday: 8 days*
 - Sick days: 5 days*
-- Equipment stipend: One time $1000 stipend* 
-- Professional development: $2000 per year including conferences and travel*
+- Equipment stipend: One time $1,000 stipend* 
+- Professional development: $2,000 per year including conferences and travel*
 - ST/LT disability 
 - 401k: (100% match up to 6% of employee's salary)
 
