@@ -1,15 +1,15 @@
-# Professional Development at Bloom Works
+# Professional development (prodev)
 
 ## Introduction
 
-Bloom Works recognizes the importance of individual Professional Development for all team members. We value Professional Development for a number of reasons:
+Bloom recognizes the importance of professional development opportunities for all team members, and we encourage you to take advantage of this Bloom benefit. We value Professional Development for a number of reasons:
 
-- It's a win-win. Professional Development grows the depth and value of the company offerings and enhances your career opportunities too.
-- Professional Development provides career mobility for each person - increasing our feeling of safety, which leads to:
+- It's a win-win. Professional development grows the depth and value of the company offerings and enhances your career opportunities, too.
+- Professional development provides career mobility for each person - increasing our feeling of safety, which leads to:
   - Having the courage to fail, which leads to experimentation, innovation, and learning
   - Having the courage to challenge the status quo, which leads to organizational learning
   - Having the courage to be vulnerable, which leads to authentic communications and connection
-  - Open-minded thinking, which leads to increased tolerance of others ideas and personality styles
+  - Open-minded thinking, which leads to increased tolerance of others' ideas and personality styles
 
 <!-- prettier-ignore-start -->
 Bloom Works supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of $2,000 per person to be used for prodev-related expenses. Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
