@@ -17,8 +17,6 @@ Within a virtual working environment, communication is vital to keeping a collab
 
 <!--- Protected classes from Trinet handbook, keep list updated in: employment, code-of-conduct and anti-harassment-policies -->
 
-Bloom Works is dedicated to providing a harassment-free experience for everyone as described in our [anti-harassment policies](../040-employee-handbook-us/anti-harassment-policies.md), regardless of age, race, color, national origin, gender (including pregnancy, childbirth or medical condition related to pregnancy or childbirth), gender identity or expression, sexual orientation, religion, physical or mental disability, medical condition, genetic information, marital status, veteran status, military status, or any other characteristic protected by federal, state, or local law. Bloom Works prioritizes people's safety, including members of marginalized groups, and doesn't tolerate harassment of participants in any form. Employees who violate this code of conduct may be subject to disciplinary actions.
-
 ### Guiding principles
 
 - **Be mindful.** Having a diverse team means that we will have different opinions, viewpoints, and experiences. This also means that we may not agree on what is humorous, insulting, or rude. We all stand to learn from each other and that includes gaining awareness of how others perceive certain communications. 
@@ -30,6 +28,9 @@ Bloom Works is dedicated to providing a harassment-free experience for everyone 
 - Be open to **building relationships** across the team. As our team grows, we're more likely to have peers that we don't work with directly. Bloom creates opportunities for team members to get to know each other, including virtual coffee chats, regular staff meetings, and social Slack channels. When we can all participate in an authentic and active way, we contribute to the health and longevity of the company.
 
 - **Be considerate and respectful**. We all have a voice and some of us happen to be louder than others. Think before you speak, and give others a chance to be heard. When you disagree with. colleague, focus on resolving issues constructively and ask for help if you need to. When meeting in person, be mindful of other people's boundaries and feel free to express your own physical boundaries. For example, some of us are huggers and some of us aren't — and the only way to know who's who is to ask. 
+
+### The bottom line
+Bloom is dedicated to providing a harassment-free experience for everyone as described in our [anti-harassment policies](../040-employee-handbook-us/anti-harassment-policies.md), regardless of age, race, color, national origin, gender (including pregnancy, childbirth or medical condition related to pregnancy or childbirth), gender identity or expression, sexual orientation, religion, physical or mental disability, medical condition, genetic information, marital status, veteran status, military status, or any other characteristic protected by federal, state, or local law. Bloom prioritizes people's safety, including members of marginalized groups, and doesn't tolerate harassment of participants in any form. Employees who violate this code of conduct may be subject to disciplinary actions.
 
 If you believe someone is violating the code of conduct, please speak to a member of the Human Resources team or any other member of the Bloom Works' Ops team who you feel comfortable speaking with. Please view the details in our [anti-harassment policies](../040-employee-handbook-us/anti-harassment-policies.md#reporting-and-investigating-proscribed-harassment) for more information on how to report complaints, how they will be investigated, and how you'll be protected from retaliation.
 
