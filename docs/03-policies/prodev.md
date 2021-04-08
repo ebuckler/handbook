@@ -11,14 +11,12 @@ Bloom recognizes the importance of professional development opportunities for al
   - Having the courage to be vulnerable, which leads to authentic communications and connection
   - Open-minded thinking, which leads to increased tolerance of others' ideas and personality styles
 
-<!-- prettier-ignore-start -->
 Bloom Works supports and encourages the Professional Development (prodev) of each team member by providing an annual budget of $2,000 per person to be used for prodev-related expenses. Note: If you are a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
 
 In addition to the annual budget, each team member is encouraged to use a "take what you need" approach to using time for prodev pursuits during business hours, within the bounds of any billable hours goals you may have. If you need guidance on what amount of time is appropriate to spend on prodev in a given year, consult with your manager.
 
 ## Your Prodev Budget
 
-<!-- prettier-ignore -->
 Each full-time team member is provided an annual prodev budget of $2,000. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
 
 This budget can be used a number of things:
