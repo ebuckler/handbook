@@ -17,27 +17,23 @@ In addition to the annual budget, each team member is encouraged to use a "take 
 
 ## Your Prodev Budget
 
-Each full-time team member is provided an annual prodev budget of $2,000. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee or under 30 hours/week, your budget will be prorated based on your working hours.
+Each full-time team member is provided an annual prodev budget of $2,000. If you're just starting, you'll need to wait 90 days before you gain access to your prodev budget. If you're a part-time employee or under 32 hours/week, your budget will be prorated based on your working hours.
 
 This budget can be used a number of things:
 
-- Materials used to obtain professional certifications including classes, study guides, books
+- Online or in-person courses
 - Testing fees & renewal costs associated with professional certifications
-- Books
-- Online courses
-- Travel and accommodation for attending conferences
 - Other costs incurred from you becoming a smarter, more awesomer version of you
 
-There are some limitations on the prodev budget usage. For spending amounts over $50, you'll need to get approval in advance. We ask that you put together a justification or explanation as to why this expense is relevant to your role and devleopment. A paragraph or two should be more than enough to address this. 
-When you're ready to move forward please email the request and explanation to admin@bloomworks.digital. 
+There are some limitations on the prodev budget usage. For spending amounts over $50, you'll need to get approval in advance. And unfortunately under the benefit plan we've chosen for this program we are not able to directly reimburse things like travel costs or for supplies that you can retain after completing your courses/tests/certifications. If you have specific questions about limitations reach out to [Sofia](mailto:sofia@bloomworks.digital).
+
+For expenses over $50, we ask that you put together a justification or explanation as to why this expense is relevant to your role and devleopment. A paragraph or two should be more than enough to address this. When you're ready to move forward please email the request and explanation to [admin@bloomworks.digital.](mailto:admin@bloomworks.digital)
 
 Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be submitted in the usual way through Harvest, under the "Bloom Works" project with the "Professional development" category.
 
 Remember that your budget does NOT carry over at the end of the year. So get busy learning something! Use it or lose it.
 
 Want to spend more money than I have budget for? Talk to your manager if you have prodev needs that can't be covered by your annual budget.
-
-You can see how much of your annual prodev budget remains by looking at the summary tab here: [Prodev Usage 2021](https://docs.google.com/spreadsheets/d/1oa5WuAwWU9RudLWptPIEKaLotjjDoFpAc7-3yB-gEPo/edit?usp=sharing)
 
 ## Making a Plan
 
