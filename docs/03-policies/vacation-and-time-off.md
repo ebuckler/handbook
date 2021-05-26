@@ -5,7 +5,7 @@ You do not need to justify time off, and whenever possible please try to arrange
 ### Full-time employees
 
 - Employees who work 33+ hours per week are considered Full Time. They accrue 120 hours of vacation and 40 hours of sick leave each year (year begins at the time of hire). 
--  Up to 40 hours (5 days) of unused vacation and 40 hours (5 days) of unused sick leave can be carried over each year ("year" starts at the anniversary of your employment).
+-  Up to 40 hours (5 days) of unused vacation can be carried over each year ("year" starts at the anniversary of your employment).
 -  Bloom also offers an additional 64 hours (8 days) of Floating Holiday time to be used at the employees discretion. The office is closed collectively between Christmas (Dec 25) and New Years (Jan 01) and is considered holiday time outside of the Floating Holidays. 
 -  If, for any reason, you are unable to work the expected hours on your project for reasons other than PTO (if for example your project team or role on the project is blocked) please notify someone on the Bloom management team (Lauren, Emily or Sofia). We will help determine the right next steps.
 
