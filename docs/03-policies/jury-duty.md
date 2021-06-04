@@ -8,8 +8,7 @@ Full-time and regular, part-time employees are eligible to receive this benefit.
 
 ## Responsibility
 
-Upon receipt of notification from the state or federal courts of an obligation to serve on a jury or to act as a court witness, the employee should notify his or her supervisor. The employee is required to provide copies of the subpoena or jury summons to his or her supervisor and to the payroll department.
+Upon receipt of notification from the state or federal courts of an obligation to serve on a jury or to act as a court witness, notify your project lead. You are required to provide copies of the subpoena or jury summons to HR for recordkeeping purposes.
 
-The supervisor will verify the notification by contacting the office issuing the summons or subpoena and make scheduling adjustments to accommodate the employee’s obligation. The supervisor will also provide court documentation to payroll for processing.
+If you are appearing in your own case as a plaintiff or defendant or for a nonsubpoenaed court appearance will not receive paid time off. Vacation or unpaid time should be used for such instances.
 
-Employees appearing in their own case as a plaintiff or defendant or for a nonsubpoenaed court appearance will not receive paid time off. Vacation or unpaid time should be used for such instances.
