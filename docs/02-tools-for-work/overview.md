@@ -26,13 +26,13 @@ For some projects, we may join teams on separate workspaces. We’ll grant you a
 
 Here's a quick intro to our internal channels:
 
-- **Bloomers** — Where we post new HR policies, etc. 
+- **Bloomers** — Where we post important operational updates or questions that only apply to Bloom Works salaried staff.  
 
 - **Familiars** — For sharing cute pictures and stories of our favorite people (kids, partners, pets, you name it)
 
 - **General** — For company-wide announcements and work matters
 
-- **Good Reads** — For sharing relevant articles, events, and other pieces of interest
+- **Good Reads** — For sharing industry-relevant articles, events, and other pieces of interest
 
 - **Hiring** — A space to share hiring ideas and discuss logistics (*NOT* to be used to discuss individual candidates)
 
@@ -40,9 +40,11 @@ Here's a quick intro to our internal channels:
 
 - **Water Cooler** — Our equivalent for the company breakroom 
 
-- **BD General** — Business development team discussion space, especially for proposals
+- **Media Matters** - the channel formally known as 'talking tv,' where you can post book/movie/tv recommendations or find someone to discuss the latest episode/podcast/etc with you. Please mark threads with *Spoilers* if you're going to reveal things in the discussion thread. 
 
-- **BD Opportunities** — Sharing RFX's of interest
+- **BD General** — Business development team discussion space, articles relevant to potential projects, etc. 
+
+- **BD Opportunities** — Sharing RFX's of interest, discussing proposal strategies. 
 
 - **Bloom Comms** — Updates on what Bloom is promoting, which may include [Pollinator](https://medium.com/pollinator) posts and other news that we'll ask you to share with your networks
 
@@ -53,6 +55,10 @@ Here's a quick intro to our internal channels:
 - **Lurkers** — Some folks like to be in our Slack but aren't employees (maybe they will be one day or maybe they were in the past)
 
 - **Tech** — Github help, security policy questions, anything tech related
+-
+- **Recipe-book** - for sharing your faves
+-
+- **Freebritney** - you guessed it
 
 ## Trello
 We use Trello to collaborate on tasks for our various projects. Each project has a separate board which we'll give you access to when you join. Each team will use Trello a bit differently, so please defer to your project lead for any team norms on how to use the project board. 
