@@ -55,9 +55,9 @@ Here's a quick intro to our internal channels:
 - **Lurkers** — Some folks like to be in our Slack but aren't employees (maybe they will be one day or maybe they were in the past)
 
 - **Tech** — Github help, security policy questions, anything tech related
--
+
 - **Recipe-book** - for sharing your faves
--
+
 - **Freebritney** - you guessed it
 
 ## Trello
