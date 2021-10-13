@@ -34,3 +34,7 @@ We pride ourselves on being practical, pragmatic, scrappy, and determined to get
 ### Fiercely prioritize.
 
 In recognizing at the outset that trying to do everything will mean accomplishing nothing, we strive to balance our work against our ability to do it well. We need to deliver and deliver with quality.
+
+## Before you begin the handbook ##
+
+We've done our best to try and cover every scenario in this handbook, but we know it's impossible to anticipate *everything*. Please understand that in some instances policies and procedures can be considered on a case-by-case basis (particularly to do with PTO and expenses). When in doubt please contact Sofia, Lauren or Emdash to discuss your circumstances. 
