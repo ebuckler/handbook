@@ -21,6 +21,7 @@ Tracking Expenses
 You’ll need to log all expenses in Harvest with receipts attached (except meals — more on that above). Please track the expenses based on the date of the work travel — not when the expense was incurred (e.g., if you book a flight in May for a flight in June, you should list the date of the flight as the date of the expense instead of the date you booked the flight).
 
 **Receipts are of the utmost importance, collect them all! ^**
+
 *Pro Tip - download the Harvest mobile app to track your expenses while on-the-go*
 
 ^In some cases you can provide a bank statement as a substitude for actual receipts. These exceptions are considered on a case-by-case basis by Sofia. 
