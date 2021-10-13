@@ -33,7 +33,7 @@ We follow a pretty simply channel naming convention, and if you want / need to c
 Here's a quick intro to our channels:
 
 | Channel Name        | Description           |
-| ------------- | -------------:| 
+| ------------- | :-------------:| 
 | bloom-airtable      | For team members who are using our paid account | 
 | bloom-bd-general      | BD team discussion space for general market trends, events of interest or other topics outside of straight proposals      |  
 | bloom-bd-opportunities | For sharing RFXs of interest      | 
