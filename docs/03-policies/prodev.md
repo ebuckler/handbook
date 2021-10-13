@@ -46,3 +46,7 @@ For some people, getting input from others is an important part of the professio
 
 If you're asked by someone else to assist with their prodev, please make time to help them out!
 
+## Examples
+- Attend an industry conference, like [Code for America](https://summit.codeforamerica.org/)
+- Take a course at your local university or online institution
+- Get a membership to an organization related to your discipline (Sofia is a member of the Society for HR Managers)
