@@ -41,10 +41,10 @@ Here's a quick intro to our channels:
 | bloom-comms      | TBD - pending our new Comms Director joining in October      |  
 | bloom-content | A space to post your questions, share a resources, geek out on grammar - you get the idea      | 
 | bloom-data-viz      | For all things data visualization related | 
-| bloom-design      | TBD!     |  
+| bloom-design      | All things creative!     |  
 | bloom-general | For all Bloomers, including contractors, to receive all hands announcements      | 
 | bloom-good-reads      | A space to share industry, workplace, or other professionally relevant media (not just articles) | 
-| bloom-hiring      | TBD!      |  
+| bloom-hiring      | For team wide hiring updates, we will never post personal information to this channel      |  
 | bloom-lurkers | A space for current and former Bloomers (staff and contractors) to keep in touch      | 
 | bloom-pm-things      | For our Project Manager team members to share information and updates to their fellow Ops team | 
 | bloom-tech     | Mainly a space for our engineering team to connect, but general tech talk also invited!      |  
