@@ -26,25 +26,36 @@ For some projects, we may join teams on separate workspaces. We’ll grant you a
 
 We follow a pretty simply channel naming convention, and if you want / need to create a new channel please reach out to Sofia for help. 
 - Channels starting with 'bloom-' are strictly internal and work related
-- Channels starting with 'proj-' are for current projects so team members can easily interact. We will sometimes have IC's or other businuess partners join these channels
+- Channels starting with 'proj-' are for current projects so team members can easily interact. We will sometimes have IC's or other businuess partners join these channels. These channels change often enough that they won't be listed in the intro below, but if you're on the project then one of your team members will add you to the appropriate channel. 
 - Channels starting with 'social-' are, you guessed it, our casual, get-to-know-you channels for sharing on various topics
+- Channels starting with 'proposal-' are planned, temporary channels for the relevant team players putting together a biz dev proposal. If we win the bid then the channel is renamed with a 'proj-' prefix
 
 Here's a quick intro to our channels:
 
 | Channel Name        | Description           |
 | ------------- | -------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      | 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      | 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      | 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      | 
+| bloom-airtable      | For team members who are using our paid account | 
+| bloom-bd-general      | BD team discussion space for general market trends, events of interest or other topics outside of straight proposals      |  
+| bloom-bd-opportunities | For sharing RFXs of interest      | 
+| bloom-bloomers      | For Full or Part time staff only, important ops updates are shared here | 
+| bloom-comms      | TBD - pending our new Comms Director joining in October      |  
+| bloom-content | A space to post your questions, share a resources, geek out on grammar - you get the idea      | 
+| bloom-data-viz      | For all things data visualization related | 
+| bloom-design      | TBD!     |  
+| bloom-general | For all Bloomers, including contractors, to receive all hands announcements      | 
+| bloom-good-reads      | A space to share industry, workplace, or other professionally relevant media (not just articles) | 
+| bloom-hiring      | TBD!      |  
+| bloom-lurkers | A space for current and former Bloomers (staff and contractors) to keep in touch      | 
+| bloom-pm-things      | For our Project Manager team members to share information and updates to their fellow Ops team | 
+| bloom-tech     | Mainly a space for our engineering team to connect, but general tech talk also invited!      |  
+| bloom-website      | For team members involved in updating the Bloom Works website      |  
+| social-bach-bloomers | Do you love reality TV? Go no further than this Bachelor-focused content channel      |
+| social-books-movies-ohmy      | A space to share media you're excited about - movie trailers? reviews? book recommendations? The sky is the limit | 
+| social-familiars      | Cute photos / videos / shoutouts of pets and loved ones      |  
+| social-culture-and-values | Holding space to share media (articles, podcasts, etc) on timely topics. In addition to posting here, we try to carry through discussions into our regular DEI sessions      | 
+| social-recipe-book      | Share your favorite recipes, triumphs, failures and sources. Or ask for recommendations! | 
+| social-water-cooler      | A social space for everything else that isn't captured in our other channels.      |  
+
 
 
 ## Trello
