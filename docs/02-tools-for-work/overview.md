@@ -25,10 +25,10 @@ Please keep in mind that some Slack channels and workspaces may include our part
 For some projects, we may join teams on separate workspaces. We’ll grant you access to those on a project-by-project basis.
 
 We follow a pretty simply channel naming convention, and if you want / need to create a new channel please reach out to Sofia for help. 
-- Channels starting with 'bloom-' are strictly internal and work related
-- Channels starting with 'proj-' are for current projects so team members can easily interact. We will sometimes have IC's or other businuess partners join these channels. These channels change often enough that they won't be listed in the intro below, but if you're on the project then one of your team members will add you to the appropriate channel. 
-- Channels starting with 'social-' are, you guessed it, our casual, get-to-know-you channels for sharing on various topics
-- Channels starting with 'proposal-' are planned, temporary channels for the relevant team players putting together a biz dev proposal. If we win the bid then the channel is renamed with a 'proj-' prefix
+* Channels starting with 'bloom-' are strictly internal and work related
+* Channels starting with 'proj-' are for current projects so team members can easily interact. We will sometimes have IC's or other businuess partners join these channels. These channels change often enough that they won't be listed in the intro below, but if you're on the project then one of your team members will add you to the appropriate channel. 
+* Channels starting with 'social-' are, you guessed it, our casual, get-to-know-you channels for sharing on various topics
+* Channels starting with 'proposal-' are planned, temporary channels for the relevant team players putting together a biz dev proposal. If we win the bid then the channel is renamed with a 'proj-' prefix
 
 Here's a quick intro to our channels:
 
