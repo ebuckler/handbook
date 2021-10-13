@@ -5,7 +5,7 @@ That is where we keep:
 - [Marketing and communication info](https://drive.google.com/drive/folders/1CpFv0REjol60RMnmlus3sub1U9QbLCsl?usp=sharing): for things like Bloom's visual style guide, writing guide, and sample proposal responses
 - [Team](https://drive.google.com/drive/folders/1ifDUZX6Tq3CBvV03-49yNVeSIFG3QC9S?usp=sharing): for team resumes and bios
 - [Templates](https://drive.google.com/drive/folders/1ba-TApkKF7hLt5K0PCqjVVwX9UJERQMD?usp=sharing): to grab a template for a proposal, slide deck, Google doc, etc. 
-- [PM Templates](https://drive.google.com/drive/u/0/folders/1VFms5OSWVNVeCsoie3YjbU0wDl143g4s)
+- [PM Templates](https://drive.google.com/drive/u/0/folders/1VFms5OSWVNVeCsoie3YjbU0wDl143g4s): for project scoping and other project management-related activities
 
 
 
