@@ -15,6 +15,4 @@
 
 **These benefits are prorated for anyone working fewer than 40 hours a week.*
 
-Coming soon: Mental health resources
-
-If you have any questions, contact Sofia. 
+If you have any questions, contact HR. 
