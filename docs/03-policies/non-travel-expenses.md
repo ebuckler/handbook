@@ -15,6 +15,6 @@ Once you have estimated the total cost of the expense(s), message the budget own
  
  *Pro Tip - dowload the Harvest app to track your expenses while on-the-go* 
  
- If you don't see your project code or an appropriate category code, contact Sofia. 
+ If you don't see your project code or an appropriate category code, contact HR. 
 
-^In some cases you can provide a bank statement as a substitude for actual receipts. These exceptions are considered on a case-by-case basis by Sofia. 
+^In some cases you can provide a bank statement as a substitude for actual receipts. These exceptions are considered on a case-by-case basis by HR or Ops. 
