@@ -24,4 +24,4 @@ You’ll need to log all expenses in Harvest with receipts attached (except meal
 
 *Pro Tip - download the Harvest mobile app to track your expenses while on-the-go*
 
-^In some cases you can provide a bank statement as a substitude for actual receipts. These exceptions are considered on a case-by-case basis by Sofia. 
+^In some cases you can provide a bank statement as a substitude for actual receipts. These exceptions are considered on a case-by-case basis by HR or Ops. 
