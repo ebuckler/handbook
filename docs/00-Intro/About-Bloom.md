@@ -37,4 +37,4 @@ In recognizing at the outset that trying to do everything will mean accomplishin
 
 ## Before you begin the handbook ##
 
-We've done our best to try and cover every scenario in this handbook, but we know it's impossible to anticipate *everything*. Please understand that in some instances policies and procedures can be considered on a case-by-case basis (particularly to do with PTO and expenses). When in doubt please contact Sofia, Lauren or Emdash to discuss your circumstances. 
+We've done our best to try and cover every scenario in this handbook, but we know it's impossible to anticipate *everything*. Please understand that in some instances policies and procedures can be considered on a case-by-case basis (particularly to do with PTO and expenses). When in doubt please contact HR or Ops to discuss your circumstances. 
