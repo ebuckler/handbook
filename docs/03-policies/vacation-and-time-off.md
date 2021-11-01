@@ -8,7 +8,7 @@ You do not need to justify time off, and whenever possible please try to arrange
 -  Up to 40 hours (5 days) of unused vacation can be carried over per calendar year. These unused, accrued vacation days DO NOT aggregate year-on-year. 
 -  Bloom also offers an additional 64 hours (8 days) of Floating Holiday time to be used at the employees discretion. 
 -  The office is closed collectively between Christmas (Dec 25) and New Years (Jan 01) and is considered holiday time outside of the Floating Holidays. 
--  If, for any reason, you are unable to work the expected hours on your project for reasons other than PTO (if for example your project team or role on the project is blocked) please notify someone on the Bloom management team (Lauren, Emily or Sofia). We will help determine the right next steps.
+-  If, for any reason, you are unable to work the expected hours on your project for reasons other than PTO (if for example your project team or role on the project is blocked) please notify someone on the Bloom management team (Lauren, Emily or HR). We will help determine the right next steps.
 
 ### Part-time employees
 
@@ -39,9 +39,9 @@ Employees who are eligible for any other paid leave under Bloom Works policies w
 
 Similarly, employees who are eligible for wage replacement benefits while on an approved leave (for example, an employee who is eligible for workers' compensation, short-term disability, or long-term disability) will not receive paid time off compensation except as provided below.
 
-If an employee remains absent for seven or more calendar days due to his or her own illness or injury, the employee must apply for short-term disability benefits through the state-provided plan or, if applicable, a company-provided plan, by contacting Sofia to initiate a disability claim. Absences covered by short-term disability, including pregnancy-related disabilities, are not eligible for paid time off under this policy. If the company becomes aware that an absence may qualify for short-term disability benefits, management or the People Ops Team will direct the employee to contact Guardian to apply for short-term disability benefits.
+If an employee remains absent for seven or more calendar days due to his or her own illness or injury, the employee must apply for short-term disability benefits through the state-provided plan or, if applicable, a company-provided plan, by contacting HR to initiate a disability claim. Absences covered by short-term disability, including pregnancy-related disabilities, are not eligible for paid time off under this policy. If the company becomes aware that an absence may qualify for short-term disability benefits, management or the People Ops Team will direct the employee to contact Guardian to apply for short-term disability benefits.
 
-For information or questions concerning this policy and the use of time off during otherwise unpaid leaves of absence or short-term disability the employee should contact Sofia for assistance.
+For information or questions concerning this policy and the use of time off during otherwise unpaid leaves of absence or short-term disability the employee should contact HR for assistance.
 
 ## Abuse of time off
 
@@ -49,7 +49,7 @@ Abuse of time off, including as legally-mandated paid sick leave, may result in 
 
 ## State and local paid sick leave laws
 
-To the extent state or local laws mandate paid sick leave, this policy is intended to ensure that eligible employees who work in those jurisdictions accrue and receive paid sick leave in accordance with those requirements. Bloom Works prohibits discrimination or retaliation against employees because of a request for time off for legally-protected paid sick leave purposes, or use of such time off. If you believe that you have been treated unfairly on account of your use of such time off, or request for such time off, please immediately report this concern to Sofia so that the matter may be reviewed and appropriate corrective action may be taken.
+To the extent state or local laws mandate paid sick leave, this policy is intended to ensure that eligible employees who work in those jurisdictions accrue and receive paid sick leave in accordance with those requirements. Bloom Works prohibits discrimination or retaliation against employees because of a request for time off for legally-protected paid sick leave purposes, or use of such time off. If you believe that you have been treated unfairly on account of your use of such time off, or request for such time off, please immediately report this concern to HR so that the matter may be reviewed and appropriate corrective action may be taken.
 
 ## Definitions
 
@@ -76,7 +76,7 @@ When you have a technical issue with your home network, power and personal equip
 1. Ping your team in Slack to let them know you aren't available.
 1. Set a Slack status (if you can,) so people know you aren't available.
 1. If you aren't able to access Slack, deputize your work contact to let your PM(s) and team know.
-1. If the problem lasts longer than 2 hours, email Sofia and then log it in Harvest under Bloom Works: Timeoff, using the task "Technical Issues".
+1. If the problem lasts longer than 2 hours, email HR and then log it in Harvest under Bloom Works: Timeoff, using the task "Technical Issues".
 1. If it's persistent, set an out of office message.
 
 ## Personal leave of absence
@@ -87,4 +87,4 @@ Employees of Bloom Works, including part-time employees, who have worked for at 
 
 Welcoming a new child is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption, or placement in foster care if the child is under the age of 18, or incapable of self-care because of a physical or mental disability) and acclimate to the new life ahead. Our policy is that expectant parents can take eight weeks of leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant parent needs additional leave, we will review requests on a case-by-case basis. All Parental Leave described in this Policy shall be available for a 12-month period following the birth or adoption of a child.
 
-For birthing mothers there is also the option to use short-term disability for additional paid leave time. Please contact Sofia for more information on this benefit. 
+For birthing parents there is also the option to use short-term disability for additional paid leave time. Please contact HR for more information on this benefit. 
