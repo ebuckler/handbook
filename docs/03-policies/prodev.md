@@ -25,7 +25,7 @@ This budget can be used a number of things:
 - Testing fees & renewal costs associated with professional certifications
 - Other costs incurred from you becoming a smarter, more awesomer version of you
 
-There are some limitations on the prodev budget usage. For spending amounts over $50, you'll need to get approval in advance. And unfortunately under the benefit plan we've chosen for this program we are not able to directly reimburse things like travel costs or for supplies that you can retain after completing your courses/tests/certifications. If you have specific questions about limitations reach out to [Sofia](mailto:sofia@bloomworks.digital).
+There are some limitations on the prodev budget usage. For spending amounts over $50, you'll need to get approval in advance. And unfortunately under the benefit plan we've chosen for this program we are not able to directly reimburse things like travel costs or for supplies that you can retain after completing your courses/tests/certifications. If you have specific questions about limitations reach out to [HR](mailto:sofia@bloomworks.digital).
 
 For expenses over $50, we ask that you put together a justification or explanation as to why this expense is relevant to your role and devleopment. A paragraph or two should be more than enough to address this. When you're ready to move forward please email the request and explanation to [admin@bloomworks.digital.](mailto:admin@bloomworks.digital)
 
@@ -49,4 +49,4 @@ If you're asked by someone else to assist with their prodev, please make time to
 ## Examples
 - Attend an industry conference, like [Code for America](https://summit.codeforamerica.org/)
 - Take a course at your local university or online institution
-- Get a membership to an organization related to your discipline (Sofia is a member of the Society for HR Managers)
+- Get a membership to an organization related to your discipline (ex. Sofia is a member of the Society for HR Managers)
