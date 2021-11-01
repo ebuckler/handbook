@@ -26,8 +26,7 @@ Bloom Works supports the use of progressive discipline to address issues such as
 
 A verbal warning occurs when a supervisor verbally counsels an employee about an issue of concern. A written record of the discussion, noting the date, event and recommended action, is placed in the employee's personnel file for future reference.
 
-A written warning is used for behavior or performance that a supervisor considers serious or when a verbal warning has not helped change unacceptable behavior or performance. The department head, in consultation with human resources (HR), may place the employee on a performance improvement plan (PIP) not to exceed 90 days. Within this time period, the employee must demonstrate a willingness and ability to meet and maintain the conduct and work requirements specified by the supervisor and the organization. The supervisor and employee should meet regularly to assess the progress of the PIP. If the employee has met the goals and expectations described in the PIP, the supervisor will document that he or she has successfully completed the PIP. If established goals are not met, dismissal may occur.
-
+A written warning is used for behavior or performance that a supervisor considers serious or when a verbal warning has not helped change unacceptable behavior or performance. 
 Bloom Works reserves the right to administer appropriate disciplinary action for all forms of disruptive or inappropriate behavior. Each situation will be dealt with on an individual basis.
 
 ## Employee Conduct That Can Result in Disciplinary Action
