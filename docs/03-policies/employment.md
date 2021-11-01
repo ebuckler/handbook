@@ -76,7 +76,7 @@ Whether an employee is exempt or non-exempt depends on specific, statutory tests
 
 Bloom Works will maintain a secure electronic employment file while you remain an employee. This file contains things like I-9s and a copy of I-9 identification, W-4s, and Employment Agreements, and possibly other appropriate documents, on an individual basis. Gusto also has secure files which contain information like social security numbers and bank routing information.
 
-If you have any changes to personal information, such as a change of address, phone number, or name, please notify Sofia Forelle so that the changes will show up in all of your records.
+If you have any changes to personal information, such as a change of address, phone number, or name, please notify HR so that the changes will show up in all of your records.
 
 ## Employee references
 
