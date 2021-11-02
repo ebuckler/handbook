@@ -15,8 +15,8 @@ With that in mind we have a few different kinds of meetings that happen regularl
 
 # Shared Calendars
 Right now we're keeping things pretty simple:
-* Bloom-Calendar is where we document team member's Out of Office / vacation time, operations deadlines of importance, and general info that needs to be shared with the whole team
-* Bloom-BD is where we track proposal timelines, BD-related events, etc. 
++ Bloom-Calendar is where we document team member's Out of Office / vacation time, operations deadlines of importance, and general info that needs to be shared with the whole team
++ Bloom-BD is where we track proposal timelines, BD-related events, etc. 
 
 # General Calendar etiquette
 *Make sure to set your Google Calendar to the correct timezon and enter in your regular office hours*
