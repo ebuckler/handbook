@@ -51,3 +51,5 @@ All claims of proscribed harassment will be investigated in a timely, objective,
 Neither the company nor the law will tolerate any form of retaliation against any employee who opposes discrimination or prohibited harassment, makes a complaint, or participates in any manner in an internal investigation or an investigation, proceeding, or hearing conducted by a state or federal agency or court. 
 
 If you believe that you have experienced or witnessed retaliation, you should immediately report your concern to your manager, any other manager or officer. Any employee who engages in retaliation will be subject to disciplinary action, up to and including termination of employment, as well as possible legal consequences.
+
+For any and all concerns regarding harassment please do not hesitate to contact HR for support. 
