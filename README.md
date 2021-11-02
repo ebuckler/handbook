@@ -1,6 +1,6 @@
 # BLOOM EMPLOYEE HANDBOOK
 
-We've prepared this handbook to specify what Bloomers can expect from Bloom and what we expect from Bloomers. It describes the Bloom philosophy, working methods and processes, employment practices, policies, and benefits.
+We've prepared this handbook to specify what Bloomers can expect from Bloom Works and what we expect from Bloomers. It describes the Bloom philosophy, working methods and processes, employment practices, policies, and benefits.
 
 ## This is not really the README you are looking for.
 
