@@ -53,6 +53,7 @@ Here's a quick intro to our channels:
 | social-books-movies-ohmy      | A space to share media you're excited about - movie trailers? reviews? book recommendations? The sky is the limit | 
 | social-familiars      | Cute photos / videos / shoutouts of pets and loved ones      |  
 | social-culture-and-values | Holding space to share media (articles, podcasts, etc) on timely topics. In addition to posting here, we try to carry through discussions into our regular DEI sessions      | 
+| social-games-channel | This channel is used during our regularly-scheduled 'social hours,' where we get a chance to kick back with our teammates. Slack has several in-platform games you can choose from. | 
 | social-recipe-book      | Share your favorite recipes, triumphs, failures and sources. Or ask for recommendations! | 
 | social-water-cooler      | A social space for everything else that isn't captured in our other channels.      |  
 
