@@ -49,11 +49,10 @@ Examples of employee conduct that would lead to discipline and the usual course 
 
 **Examples:**
 
-+ Creating conflict with co-workers, supervisors, or clients.
-+ Failing to follow practices as needed for the specific job assignment.
-+ Contributing to unsafe conditions.
-+ Abusing lunch and break periods.
-+ Violating other rules or policies not specifically listed.
+1. Failing to follow practices as needed for the specific job assignment.
+2. Contributing to unsafe conditions.
+3. Abusing lunch and break periods.
+4. Violating other rules or policies not specifically listed.
 
 ### Group 2
 
@@ -67,13 +66,13 @@ Examples of employee conduct that would lead to discipline and the usual course 
 
 **Examples:**
 
-+ Acting with gross or intentional negligentce.
-+ Engaging in vulgar or abusive language or conduct toward others.
-+ Copying company documents for personal use.
-+ Using facility communication systems inappropriately.
-+ Treating customers or co-workers in a discourteous, inattentive or unprofessional manner.
-+ Being absent or tardy or leaving early without notification or permission.
-+ Repeatedly not following department guidelines concerning notification of an absence.
+1. Acting with gross or intentional negligentce.
+2. Engaging in vulgar or abusive language or conduct toward others.
+3. Copying company documents for personal use.
+4. Using company communication systems inappropriately.
+5. Treating clients or co-workers in a discourteous, inattentive or unprofessional manner.
+6. Being absent or tardy or leaving early without notification or permission.
+7. Repeatedly not following department guidelines concerning notification of an absence.
 
 ### Group 3
 
@@ -85,23 +84,18 @@ Dismissal is the immediate termination of an employee for a serious breach of re
 
 **Examples:**
 
-+ Being absent for three or more days without notification or permission (also referred to as a voluntary quit or job abandonment).
-+ Demonstrating insubordination, including:
-
-..* Refusal to do an assigned job.
-
-..* Refusal to work overtime or holiday shifts when required.
-
-..* Disrespectful response to a supervisor's directive.
-
-..* Deliberate delay in carrying out an assignment.
-
-+ Dishonesty, including deception, fraud, lying, cheating or theft.
-+ Intentionally or with malicious intent violating timecard procedures.
-+ Falsifying company records, such as employment applications and timecards, in any way.
-+ Engaging in indecent behavior.
-+ Possessing, being under the influence of or drinking intoxicants on the job.
-+ Concealing defective work.
-+ Disclosing confidential records or information without prior written consent.
-+ Soliciting gifts or tips from business-related contracts.
-+ Demonstrating gross misconduct or other serious violations of Bloom Works policies or procedures.
+1. Being absent for three or more days without notification or permission (also referred to as a voluntary quit or job abandonment).
+2. Demonstrating insubordination, including:
+  * Refusal to do an assigned job.
+  * Refusal to work overtime or holiday shifts when required.
+  * Disrespectful response to a supervisor's directive.
+  * Deliberate delay in carrying out an assignment.
+3. Dishonesty, including deception, fraud, lying, cheating or theft.
+4. Intentionally or with malicious intent violating timecard procedures.
+5. Falsifying company records, such as employment applications and timecards, in any way.
+6. Engaging in indecent behavior.
+7. Possessing, being under the influence of or drinking intoxicants on the job.
+8. Concealing defective work.
+9. Disclosing confidential records or information without prior written consent.
+10. Soliciting gifts or tips from business-related contracts.
+11. Demonstrating gross misconduct or other serious violations of Bloom Works policies or procedures.
