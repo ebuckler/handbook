@@ -1,6 +1,6 @@
 # Welcome to the team!
 
-As a Bloomer, it might be helpful to have some background on Bloom — how it all started, what we're trying to do here, and some of our core values.
+As a Bloomer, it might be helpful to have some background on Bloom Works — how it all started, what we're trying to do here, and some of our core values.
 
 ## How it all began
 
