@@ -25,6 +25,7 @@ Please keep in mind that some Slack channels and workspaces may include our part
 For some projects, we may join teams on separate workspaces. We’ll grant you access to those on a project-by-project basis.
 
 We follow a pretty simply channel naming convention, and if you want / need to create a new channel please reach out to HR or Ops for help. 
+
 * Channels starting with 'bloom-' are strictly internal and work related
 * Channels starting with 'proj-' are for current projects so team members can easily interact. We will sometimes have IC's or other businuess partners join these channels. These channels change often enough that they won't be listed in the intro below, but if you're on the project then one of your team members will add you to the appropriate channel. 
 * Channels starting with 'social-' are, you guessed it, our casual, get-to-know-you channels for sharing on various topics
@@ -83,7 +84,7 @@ This is the platform we use for expenses and time tracking. In order for Bloom t
 
 This is also where you will log any expenses you incur for work travel. For more details on billing categories and invoices, [please see our Trello card on how billing works](https://trello.com/c/MDeCS2Sd). 
 
-## T Sheets (for State of CT work only)
+## T Sheets (for CT/Skylight work only)
 This is the platform our partners at Skylight use for time tracking. Each day, you’ll need to log the hours you worked related to any State of CT projects.
 Skylight will send you an invitation to the platform separately. If you don't see it on your first day, contact HR. 
 
