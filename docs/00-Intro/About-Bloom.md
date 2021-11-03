@@ -14,7 +14,7 @@ At Bloom, we've made it our business to be different. We're here to help navigat
 
 ## Our core values
 
-*This is the most recent iteration that we updated as a team in early 2021.
+*This is the most recent iteration that we updated as a team in January of 2020.
 
 ### The best adventures start out as a spacewalk.
 
