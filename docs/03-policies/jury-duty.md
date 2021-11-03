@@ -1,3 +1,5 @@
+# Jurdy Duty 
+
 ## Objective
 
 To provide income protection while an employee carries out his or her civic responsibility, Bloom Works provides the difference between jury duty pay and an employee’s regular day’s pay for time spent serving on jury duty. Generally, income protection for time spent serving on jury duty will be provided for a maximum of five workdays. Additional income-protected time away from the workplace for this purpose will be considered on a case-by-case basis.
