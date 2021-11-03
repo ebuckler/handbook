@@ -1,3 +1,5 @@
+# 360 Reviews
+
 Bloom Works prioritizes and encourages a healthy feedback culture - we believe that feedback doesn't need to be unkind in order to be impactful. 
 
 During the Summer of 2021 we started to use a new process for giving and receiving feedback in 360 reviews. Overall the team gave great reviews and had a positive experience, but we're always open to new ideas / suggestions / feedback as we continue to host and facilitate these retrospectives. 
