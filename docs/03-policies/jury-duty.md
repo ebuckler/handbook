@@ -1,4 +1,4 @@
-# Jurdy Duty 
+# Jury Duty 
 
 ## Objective
 
