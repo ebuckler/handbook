@@ -1,4 +1,6 @@
-# Purpose
+# Progressive Discipline 
+
+## Purpose
 
 The purpose of this policy is to clarify guidelines for employee conduct and to outline appropriate disciplinary steps.
 
