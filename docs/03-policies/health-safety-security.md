@@ -18,7 +18,7 @@ If you are involved in an automobile accident while on Bloom Works' business, re
 
 Bloom Works ("Company") is committed to providing a drug-free work environment. The use of drugs and abuse of alcohol not only jeopardizes the health, safety, and well-being of the individual user and coworkers, it also results in increased absenteeism and decreased productivity, higher workers' compensation costs and health/disability premiums, and endangers the safety of the general public.
 
-### Pupose
+### Purpose
 
 Our employees are our most valuable resource, and the safety of our employees and the public is important to us. The Company developed and published this substance abuse policy to address this very difficult health and social problem. This policy is intended to accurately detect and deter the use and abuse of drugs and alcohol in the workplace, while respecting the dignity and privacy of our employees. This policy replaces all existing policies concerning substance abuse and drug testing of employees.
 
