@@ -1,6 +1,6 @@
 # Team
 
-## An Engineer's Role in Client and Team Relationships
+## An Engineer's Role 
 
 ### Support our Team Members
 
