@@ -1,6 +1,6 @@
 ## We have an awesome team — which now includes you!
 
-When you join, you’ll be paired with **Lauren or Emily** as your central point of contact at Bloom. You'll have regular check-ins (frequency and format to be determined with them) to make sure you’re getting everything you need to set you up for success.
+When you join, you’ll be paired with **Lauren or Emdash** as your central point of contact at Bloom. You'll have regular check-ins (frequency and format to be determined with them) to make sure you’re getting everything you need to set you up for success.
 
 ## Meet fellow Bloomers!
 
