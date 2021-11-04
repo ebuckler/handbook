@@ -4,6 +4,7 @@
 
 The engineering team meets every two weeks for 45 minutes in the "Engineering Huddle". This meeting has a rotating facilitator and is attended by the CXO (Emdash) and the engineering team, with any relevant contractors or other attendees on an as needed basis. 
 
+
 ### Support our Team Members
 
 - We support and mentor others on the team, so they can succeed in quality work, and learn our best practices.
