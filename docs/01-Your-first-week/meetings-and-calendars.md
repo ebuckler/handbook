@@ -1,4 +1,4 @@
-# Repeat Meetings
+# General meetings and calendar etiquette
 Here at Bloom, we're all about asking 'does this need to be a meeting or can we get what we need from an asynchronous conversation?' There are always going to be those times where sitting together on Zoom provides the best environment for productivity. 
 With that in mind we have a few different kinds of meetings that happen regularly. 
 
