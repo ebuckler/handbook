@@ -36,8 +36,7 @@ Here's a quick intro to our channels:
 | Channel Name        | Description           |
 | ------------- | :-------------:| 
 | bloom-airtable      | For team members who are using our paid account | 
-| bloom-bd-general      | BD team discussion space for general market trends, events of interest or other topics outside of straight proposals      |  
-| bloom-bd-opportunities | For sharing RFXs of interest      | 
+| bloom-business-development | For sharing RFXs of interest or other business development related activities      | 
 | bloom-bloomers      | For Full or Part time staff only, important ops updates are shared here | 
 | bloom-comms      | TBD - pending our new Comms Director joining in October      |  
 | bloom-content | A space to post your questions, share a resources, geek out on grammar - you get the idea      | 
