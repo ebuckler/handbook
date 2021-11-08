@@ -1,7 +1,7 @@
-**Platforms/Congregators**
-- https://www.codeforamerica.org/
-- https://beeckcenter.georgetown.edu/
-- https://wearecommons.us
-- https://civictech.guide/tech/
-- https://www.the-atlas.com
-- http://iterative.club
+## Platforms/Congregators ##
+- [Code for America](https://www.codeforamerica.org/)
+- [Beeck Center](https://beeckcenter.georgetown.edu/)
+- [The Commons](https://wearecommons.us)
+- [Civic tech field guide](https://civictech.guide/tech/)
+- [The Atlas](https://www.the-atlas.com)
+- [The Club.Club](http://iterative.club)
