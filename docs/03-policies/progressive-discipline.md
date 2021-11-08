@@ -89,7 +89,6 @@ Dismissal is the immediate termination of an employee for a serious breach of re
 1. Being absent for three or more days without notification or permission (also referred to as a voluntary quit or job abandonment).
 2. Demonstrating insubordination, including:
   * Refusal to do an assigned job.
-  * Refusal to work overtime or holiday shifts when required.
   * Disrespectful response to a supervisor's directive.
   * Deliberate delay in carrying out an assignment.
 3. Dishonesty, including deception, fraud, lying, cheating or theft.
