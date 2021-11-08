@@ -19,10 +19,10 @@
 
 **Reports**
 
-- Cultural differences btw gov and upstarts http://100resilientcities.org/wp-content/uploads/2017/12/CityXChange_Roadmap_FINAL_Print.pdf
-- Benchmarking US gov websites https://itif.org/publications/2017/03/08/benchmarking-us-government-websites
-- Challenges to adopting digital http://www.businessofgovernment.org/sites/default/files/Digital%20Service%20Teams%20-%20Challenges%20and%20Recommendations%20for%20Government.pdf
-- Constituent expectations https://www.accenture.com/t20160714T134734__w__/us-en/_acnmedia/PDF-25/Accenture-Stealing-Page-Private-Sector-Digital-Playbook.pdf
+- [Cultural differences btw gov and upstarts](ttp://100resilientcities.org/wp-content/uploads/2017/12/CityXChange_Roadmap_FINAL_Print.pdf)
+- [Benchmarking US gov websites](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites)
+- [Challenges to adopting digital](http://www.businessofgovernment.org/sites/default/files/Digital%20Service%20Teams%20-%20Challenges%20and%20Recommendations%20for%20Government.pdf)
+- [Constituent expectations](https://www.accenture.com/t20160714T134734__w__/us-en/_acnmedia/PDF-25/Accenture-Stealing-Page-Private-Sector-Digital-Playbook.pdf)
 
 **Miscellaneous**
 
