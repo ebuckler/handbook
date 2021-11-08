@@ -1,2 +1,2 @@
 **Accessibility**
-- https://www.w3.org/WAI/standards-guidelines/wcag/
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
