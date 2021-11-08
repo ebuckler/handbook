@@ -16,4 +16,6 @@ Pretty much every organization has their own special way of speaking and Bloom W
 
 **Marina**
 
-## This page is in process! Please suggest other lingo / terms for Sofia to add to this page!
+**Digital**
+
+## This page is in process! Definitions will be added. Please suggest other lingo / terms for Sofia to add to this page!
