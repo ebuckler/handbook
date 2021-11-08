@@ -1,25 +1,24 @@
 **Impactful narrative**
 
-- https://www.theatlantic.com/business/archive/2017/10/bureaucrat-welfare-zacka/542547/
-- https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
-- https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/
+- [The Atlantic - Why Bureaucrats Don't Seem to Care](https://www.theatlantic.com/business/archive/2017/10/bureaucrat-welfare-zacka/542547/)
+- [Bloomberg - What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+- [The Atlantic - Why New York Subway Lines Are Missing Countdown Clocks](https://www.theatlantic.com/technology/archive/2015/11/why-dont-we-know-where-all-the-trains-are/415152/)
 
 **Resources**
 
-- https://playbook.cio.gov
-- https://techfarhub.cio.gov/handbook/
-- https://methods.18f.gov
-- https://github.com/18F/transformation-research/blob/master/preliminary-report.md
-- https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strategy
-- https://www.instituteforgovernment.org.uk/sites/default/files/publications/IFGJ4942_Digital_Government_Report_10_16%20WEB%20%28a%29.pdf
-- https://github.com/18F/transformation-services/blob/master/18F-Transformation-Terraform-DECK.pdf
-- https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/index.html
-- https://github.com/18F/transformation-services/blob/master/18F-Transformation-Terraform-DECK.pdf
-- https://civictech.guide/wp-content/uploads/2020/09/Pathways-Through-the-Portal.pdf
+- [USDS Digital Services Playbook](https://playbook.cio.gov)
+- [TechFAR Handbook](https://techfarhub.cio.gov/handbook/)
+- [18F - methods](https://methods.18f.gov)
+- [18F - best practices in government digital transformation](https://github.com/18F/transformation-research/blob/master/preliminary-report.md)
+- [UK Gov - Government Transformation Strategy](https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020/government-transformation-strategy)
+- [Institute for Government - Making a success of
+digital government pdf download](https://www.instituteforgovernment.org.uk/sites/default/files/publications/IFGJ4942_Digital_Government_Report_10_16%20WEB%20%28a%29.pdf)
+- [VA Digital Services Handbook - Digital Delivery Guide](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/delivery/index.html)
+- [Pathways to the Portal - pdf download](https://civictech.guide/wp-content/uploads/2020/09/Pathways-Through-the-Portal.pdf)
 
 **Reports**
 
-- [Cultural differences btw gov and upstarts](ttp://100resilientcities.org/wp-content/uploads/2017/12/CityXChange_Roadmap_FINAL_Print.pdf)
+- [Cultural differences btw gov and upstarts](http://100resilientcities.org/wp-content/uploads/2017/12/CityXChange_Roadmap_FINAL_Print.pdf)
 - [Benchmarking US gov websites](https://itif.org/publications/2017/03/08/benchmarking-us-government-websites)
 - [Challenges to adopting digital](http://www.businessofgovernment.org/sites/default/files/Digital%20Service%20Teams%20-%20Challenges%20and%20Recommendations%20for%20Government.pdf)
 - [Constituent expectations](https://www.accenture.com/t20160714T134734__w__/us-en/_acnmedia/PDF-25/Accenture-Stealing-Page-Private-Sector-Digital-Playbook.pdf)
