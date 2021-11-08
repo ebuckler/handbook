@@ -17,6 +17,11 @@ We often submit team members' resumes in our proposals, so we have a Bloom templ
 1. [Check out the resume template on GDrive](https://docs.google.com/document/d/1IS46KYx0JhVQKmTGxg8M_wS6nJSkADg35j3DynwWw5Y/edit?usp=sharing)
 2. Create a copy and move it to the [Bloom Full Team Drive > Team > Bios, photos, resumes folder](https://drive.google.com/drive/u/0/folders/1wqWI38uNF0l8XbqhPGGLFDN-m26A4s60).
 3. Once you've finished editing, share it with HR. They will follow up with you about any questions or clarifications. 
+
+## Bloom mini Bios
+
+1. [Add a row to this Google Doc of mini bios](https://docs.google.com/document/d/1ZwTnx2pAUeh73eHuyBeCUjQB3d7Yf_X-r5_We-0iQps/edit)
+2. Add your photo, name (with a link to your LinkedIn profile if you want it shared on our website), and 2-3 bullets of info about your professional experience. 
  
 Aaaaand that’s it. Just a few simple steps and you too can be a staple of the Bloom Works Team Page! Huzzah and hooray!
 
