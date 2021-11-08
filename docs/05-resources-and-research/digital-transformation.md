@@ -26,12 +26,12 @@
 
 **Miscellaneous**
 
-- 94% of gov IT projects fail https://www.computerworld.com/article/2486426/healthcare-gov-website--didn-t-have-a-chance-in-hell-.html
-- Scorecard https://www.va.gov/scorecard/
-- IT half life https://m.xkcd.com/1909/
-- Costs of administrative sludge https://www.nybooks.com/articles/2019/04/04/paperwork-wading-through-sludge/
-- David Eaves syllabus https://www.hks.harvard.edu/syllabus/DPI-662.pdf
-House oversight hearing on 18F/USDS https://www.youtube.com/watch?v=QFbRN3d0Eac
-- GDS products https://gds.blog.gov.uk/2017/03/29/introducing-our-new-product-pages-and-technical-documentation/
-- Mobile apps https://18f.gsa.gov/2018/02/13/why-your-agency-doesnt-need-a-mobile-app/
-- Case studies in using HCD https://userresearch.blog.gov.uk/2014/09/17/6-case-studies-using-research-and-data-to-improve-a-live-service/
+- [94% of gov IT projects fail](https://www.computerworld.com/article/2486426/healthcare-gov-website--didn-t-have-a-chance-in-hell-.html)
+- [VA.GOV Scorecard](https://www.va.gov/scorecard/)
+- [IT half life](https://m.xkcd.com/1909/)
+- [Costs of administrative sludge](https://www.nybooks.com/articles/2019/04/04/paperwork-wading-through-sludge/)
+- [David Eaves syllabus](https://www.hks.harvard.edu/syllabus/DPI-662.pdf)
+- [House oversight hearing on 18F/USDS](https://www.youtube.com/watch?v=QFbRN3d0Eac)
+- [GDS products](https://gds.blog.gov.uk/2017/03/29/introducing-our-new-product-pages-and-technical-documentation/)
+- [Mobile apps](https://18f.gsa.gov/2018/02/13/why-your-agency-doesnt-need-a-mobile-app/)
+- [Case studies in using HCD](https://userresearch.blog.gov.uk/2014/09/17/6-case-studies-using-research-and-data-to-improve-a-live-service/)
