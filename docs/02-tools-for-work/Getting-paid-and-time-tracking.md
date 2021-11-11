@@ -1,5 +1,3 @@
-We want to make getting paid and tracking time as smooth as possible. Here's how we do it: 
-
 # Getting paid
 ---------------------
 
