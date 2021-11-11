@@ -1,5 +1,4 @@
 # Getting paid
----------------------
 
 ## Employees
 We use a service called Gusto to process our payroll. Pay days are twice per month (the 15th and month end). You’ll be asked to add your information (including bank information) into Gusto. You can also manage benefits in this space (more on that later). 
@@ -10,7 +9,6 @@ For any travel expenses you incur and log in Harvest, you’ll be reimbursed dur
 On the last workday of each month, please submit your invoice to admin@bloomworks.digital. Any format works for us as long as it includes the total hours worked that month and all travel-related expenses that tie out exactly to the expenses and hours logged in Harvest.  Bloom works on a Net-30 basis (i.e., you will get paid 30 days after an invoice is submitted).
 
 # Tracking your time
-------------------------------
 
 ## Salaried employees
 All salaried employees are expected to work 40 hours per week (85-95% billable) unless you have another arrangement with Bloom. Therefore, between 34-38+ hours should be billable if you are full time on a project. You must update your hours worked each day in Harvest (and in T Sheets for CT/Skylight team only). For more information on how to account for hours in Harvest, [check out this trello card](https://trello.com/c/MDeCS2Sd). 
