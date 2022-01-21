@@ -27,7 +27,7 @@ This budget can be used a number of things:
 
 There are some limitations on the prodev budget usage. For spending amounts over $50, you'll need to get approval in advance. And unfortunately under the benefit plan we've chosen for this program we are not able to directly reimburse things like travel costs or for supplies that you can retain after completing your courses/tests/certifications. If you have specific questions about limitations reach out to [HR](mailto:sofia@bloomworks.digital).
 
-For expenses over $50, we ask that you put together a justification or explanation as to why this expense is relevant to your role and devleopment. A paragraph or two should be more than enough to address this. When you're ready to move forward please email the request and explanation to [admin@bloomworks.digital.](mailto:admin@bloomworks.digital)
+For expenses over $50, we ask that you put together a justification or explanation as to why this expense is relevant to your role and development. A paragraph or two should be more than enough to address this. When you're ready to move forward please email the request and explanation to [admin@bloomworks.digital.](mailto:admin@bloomworks.digital)
 
 Anything under $50 can be purchased without permission as long as it supports professional development goals. Receipts and expense sheets should be submitted in the usual way through Harvest, under the "Bloom Works" project with the "Professional development" category.
 
