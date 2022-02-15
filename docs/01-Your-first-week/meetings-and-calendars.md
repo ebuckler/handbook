@@ -8,7 +8,7 @@ With that in mind we have a few different kinds of meetings that happen regularl
 * Project sharebacks - TBD
 * 1:1s - when you first join the team your manager will set up check ins on a weekly basis. As you settle in these meetings may drop in frequency
 * Quarterly All Hands - following the 2021 team offsite leadership has committed to meeting with the team on a quarterly basis to provide detailed information on the health, status and growth of the company
-* 360 reviews - these happen every 6 months and you'll sometimes hear them referred to as 'Retrospectives.' [Check out this page for more info](https://bloom-handbook.readthedocs.io/en/latest/03-policies/360-reviews/)
+* 360 reviews - these happen every 6 months and you'll sometimes hear them referred to as 'Retrospectives.' [Check out this page for more info](../03b-Bloom-Works-specific-policies/360-reviews.md)
 
 ## Project related meetings
 * Your product manager will set these up, but generally speaking they will usually host a daily 'Stand Up' so the project team can gather and discuss updates, deadlines, etc. 
