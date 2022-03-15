@@ -5,9 +5,13 @@ Now that you're part of the team, we want to add you to the Bloom website!
 ## How to get your photo on the Bloom Works "Team" page:
 
 * [Check out the photos on our website](https://bloomworks.digital/team) to get a general feel for what we’re serving up already.
-* If you have an image that's similar in layout and vibe, [email it to Adam](mailto:adam@bloomworks.digital) or send it to him on Slack. 
-* If you need to take a new photo, try to get in some natural light and position the camera further away than selfie range.
- 
+* If you have an image that's similar in composition and vibe, [email it to Adam](mailto:adam@bloomworks.digital) or send it to him via Slack. 
+* If you need to take a new photo:
+ * find a spot with generous natural light — preferably outside, weather permitting
+ * if you can manage to capture green foilage in the background, that'll match most of the current photos — but it's not required
+ * if you're able, position the camera so there is generous space around you in the frame — ideally full body or waist up at least. The more space around you, the more we have to resize and crop to match existing photos
+ * for reference, our team retreat photos were taken with an iPhone 12 Pro in Portrait Mode, around noon on a mostly clear day
+
 If you have questions, reach out to Adam on Slack or on email.
  
 ## Bloom resume instructions
