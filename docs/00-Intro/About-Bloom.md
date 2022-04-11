@@ -14,27 +14,11 @@ At Bloom, we've made it our business to be different. We're here to help navigat
 
 ## Our core values
 
-*This is the most recent iteration that we updated as a team in January of 2020.
+*This is the most recent iteration that we updated as a team in December 2021.
 
-### The best adventures start out as a spacewalk.
-
-We embrace uncertainty and ambiguity since this is how things worth doing start — one step at a time, into the unknown.
-
-### Technology is for everyone.
-
-We use technology to drive towards outcomes, not outputs, and strive for everyone to know how to build it, change it, and adapt it to withstand the future. We'll always prioritize the useful thing — even if it’s not tech — over something that integrates with your smartwatch.
-Be humble. Show up ready to listen.
-
-We're a team that shows up with our whole heart and whole brain. We learn from one another, from our clients, and users.
-
-### Bring your shovel.
-
-We pride ourselves on being practical, pragmatic, scrappy, and determined to get the job done. We'll do what it takes if it means it gets all of us to where we need to be.
-
-### Fiercely prioritize.
-
-In recognizing at the outset that trying to do everything will mean accomplishing nothing, we strive to balance our work against our ability to do it well. We need to deliver and deliver with quality.
-
-## Before you begin the handbook ##
-
-We've done our best to try and cover every scenario in this handbook, but we know it's impossible to anticipate *everything*. Please understand that in some instances policies and procedures can be considered on a case-by-case basis (particularly to do with PTO and expenses). When in doubt please contact HR or Ops to discuss your circumstances. 
+### At Bloom Works, we: 
+- **Lead with courage:** Welcome ambiguity. Remember that challenging the status quo requires stepping into uncharted territory. 
+- **Center the people:** Seek an understanding of people's lived experiences, and challenge systems that perpetuate inequities. 
+- **Share the process:** Cultivate mutual trust between peers, partners, and clients. Leave egos behind, and share findings.  
+- **Adapt to change:** Pursue excellence by being curious, determined, and willing to change plans. Make only new mistakes. 
+- **Design for impact:** Come with high expectations but be cognizant of constraints. Create processes that people can actually use and build on over time. 
