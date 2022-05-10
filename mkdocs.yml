@@ -1,6 +1,5 @@
 site_name: Bloom Handbook
 repo_url: https://github.com/Bloom-Works/handbook/
-edit_uri: edit/main/docs
 site_url: https://bloom-handbook.rtfd.io/
 theme:
   name: readthedocs
