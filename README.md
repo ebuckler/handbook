@@ -2,11 +2,25 @@
 
 We've prepared this handbook to specify what Bloomers can expect from Bloom Works and what we expect from Bloomers. It describes the Bloom philosophy, working methods and processes, employment practices, policies, and benefits.
 
-## This is not really the README you are looking for.
+## Developer Setup
 
-The main handbook README is located at [docs/README.md](docs/README.md), which gets synced to readthedocs at <https://bloom-handbook.readthedocs.io/>.
+### Local environment
 
-Documentation on [`mkdocs` with readthedocs](https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html).
+1. Install Python 3.x
+1. `pip install mkdocs`
+1. `mkdocs serve`
+1. View the site at `https://127.0.0.1:8000`
+
+### Docker/VSCode environment
+
+This lets you spin up a dev environment via Docker within VSCode, which keeps your system clean.
+
+1. Install VSCode, Remote Extension plugin (for VSCode), and Docker for Desktop.
+1. Launch Docker
+1. Open the project in VSCode
+1. Open in the container specified by `Dockerfile.dev`
+1. Run `mkdocs serve`
+1. View the site at `https://127.0.0.1:8000`
 
 ## License
 
