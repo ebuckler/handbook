@@ -4,4 +4,4 @@ When you join, you’ll be paired with **Lauren or Emdash** as your central poin
 
 ## Meet fellow Bloomers!
 
-Bloom is rich with rad team members that you may work with on a current or future project. To get a sense of who's on the team, [check out our bios on this Trello board](https://trello.com/b/WVHYQUIn/bloom-overview). When you get settled in, we encourage grabbing virtual coffee/tea/work-friendly beverage of your choice to learn more about us all and what we're working on.
+Bloom is rich with rad team members that you may work with on a current or future project. To get a sense of who's on the team, <a href="https://trello.com/b/WVHYQUIn/bloom-overview" target="_blank">check out our bios on this Trello board</a>. When you get settled in, we encourage grabbing virtual coffee/tea/work-friendly beverage of your choice to learn more about us all and what we're working on.
