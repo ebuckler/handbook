@@ -42,4 +42,16 @@ Here's a quick intro to our channels:
 | social-games-channel | This channel is used during our regularly-scheduled 'social hours,' where we get a chance to kick back with our teammates. Slack has several in-platform games you can choose from. | 
 | social-water-cooler      | A social space for everything else that isn't captured in our other channels.      |  
 
+## Personal tech issues
 
+At Bloom Works, we understand that having occasional issues with your home network, power and personal equipment are a normal part of working from home.
+
+### Communication
+
+When you have a technical issue with your home network, power and personal equipment that stops you from being able to work at all, communicate early and often:
+
+1. Ping your team in Slack to let them know you aren't available.
+1. Set a Slack status (if you can,) so people know you aren't available.
+1. If you aren't able to access Slack, deputize your work contact to let your PM(s) and team know.
+1. If the problem lasts longer than 2 hours, email HR and then log it in Harvest under Bloom Works: Timeoff, using the task "Technical Issues".
+1. If it's persistent, set an out of office message.
