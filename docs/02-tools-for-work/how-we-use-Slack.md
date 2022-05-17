@@ -7,21 +7,26 @@ For some projects, we may join teams on separate workspaces. We’ll grant you a
 
 We follow a pretty simply channel naming convention, and if you want / need to create a new channel please reach out to HR or Ops for help. 
 
-* Channels starting with 'bloom-' are strictly internal and work related
-* Channels starting with 'proj-' are for current projects so team members can easily interact. We will sometimes have IC's or other businuess partners join these channels. These channels change often enough that they won't be listed in the intro below, but if you're on the project then one of your team members will add you to the appropriate channel. 
-* Channels starting with 'social-' are, you guessed it, our casual, get-to-know-you channels for sharing on various topics
-* Channels starting with 'proposal-' are planned, temporary channels for the relevant team players putting together a biz dev proposal. If we win the bid then the channel is renamed with a 'proj-' prefix
+If the channel starts with: 
+* 'bloom-' are strictly internal and work related
+* 'comm-' are committee chats, these are employee groups focused on a specific topic having to do with building Bloom culture
+* 'proj-' are for current projects so team members can easily interact. We will sometimes have IC's or other businuess partners join these channels. These channels change often enough that they won't be listed in the intro below, but if you're on the project then one of your team members will add you to the appropriate channel. 
+* 'social-' are, you guessed it, our casual, get-to-know-you channels for sharing on various topics
+* 'proposal-' or 'prop-' are planned, temporary channels for the relevant team players putting together a biz dev proposal. If we win the bid then the channel is renamed with a 'proj-' prefix
 
 Here's a quick intro to our channels:
 
 | Channel Name        | Description           |
 | ------------- | :-------------:| 
-| bloom-airtable      | For team members who are using our paid account | 
-| bloom-business-development | For sharing RFXs of interest or other business development related activities      | 
+| bloom-airtable | For team members who are using our paid account | 
+| bloom-bd | For sharing RFXs of interest or other business development related activities      | 
 | bloom-bloomers      | For Full or Part time staff only, important ops updates are shared here | 
-| bloom-comms      | TBD - pending our new Comms Director joining in October      |  
+| bloom-comms      | General comms coordination for Bloom Works |  
+| bloom-comm-jacarandas      | This is our social committee chat - for the folks who help plan our social events and annual offsite     |
+| bloom-comm-salary-transparency      | New channel as of May 2022, description forthcoming      |
+| bloom-comm-the-gardeners      | This is a committee chat for the group in charge of DE&I in our hiring and onboarding processes      |
+| bloom-comm-earthworms      | The is the committee in charge of implementing our company values and facilitating org-wide activities for us to explore the topic    |
 | bloom-content | A space to post your questions, share a resources, geek out on grammar - you get the idea      | 
-| bloom-data-viz      | For all things data visualization related | 
 | bloom-design      | All things creative!     |  
 | bloom-general | For all Bloomers, including contractors, to receive all hands announcements      | 
 | bloom-good-reads      | A space to share industry, workplace, or other professionally relevant media (not just articles) | 
@@ -35,7 +40,6 @@ Here's a quick intro to our channels:
 | social-familiars      | Cute photos / videos / shoutouts of pets and loved ones      |  
 | social-culture-and-values | Holding space to share media (articles, podcasts, etc) on timely topics. In addition to posting here, we try to carry through discussions into our regular DEI sessions      | 
 | social-games-channel | This channel is used during our regularly-scheduled 'social hours,' where we get a chance to kick back with our teammates. Slack has several in-platform games you can choose from. | 
-| social-recipe-book      | Share your favorite recipes, triumphs, failures and sources. Or ask for recommendations! | 
 | social-water-cooler      | A social space for everything else that isn't captured in our other channels.      |  
 
 
