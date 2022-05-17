@@ -65,20 +65,6 @@ For purposes of this paid time off policy, and where consistent with applicable 
 
 Eligible employees should contact the PeopleOps Team with questions concerning whether any of the above definitions apply in a particular jurisdiction.
 
-## Personal tech issues
-
-At Bloom Works, we understand that having occasional issues with your home network, power and personal equipment are a normal part of working from home.
-
-### Communication
-
-When you have a technical issue with your home network, power and personal equipment that stops you from being able to work at all, communicate early and often:
-
-1. Ping your team in Slack to let them know you aren't available.
-1. Set a Slack status (if you can,) so people know you aren't available.
-1. If you aren't able to access Slack, deputize your work contact to let your PM(s) and team know.
-1. If the problem lasts longer than 2 hours, email HR and then log it in Harvest under Bloom Works: Timeoff, using the task "Technical Issues".
-1. If it's persistent, set an out of office message.
-
 ## Personal leave of absence
 
 Employees of Bloom Works, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
