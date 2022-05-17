@@ -14,9 +14,6 @@ When you join Bloom (yay), you’ll be issued a google-based @bloomworks.digital
 
 This will be the main address you use to more formally communicate with our partners on projects. 
 
-### Setting up your email signature
-[Please use this email template](https://docs.google.com/document/d/1RaK-lQacImYNa-fyfDrY5iIvU5X7gSm1bq0ilfa1tBI/edit?usp=sharing). If you have any questions, Slack HR or Ops. 
-
 
 ## Trello
 We use Trello to collaborate on tasks for our various projects. Each project has a separate board which we'll give you access to when you join. Each team will use Trello a bit differently, so please defer to your project lead for any team norms on how to use the project board. 
