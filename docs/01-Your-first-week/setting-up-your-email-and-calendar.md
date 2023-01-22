@@ -11,9 +11,10 @@ Right now we're keeping things pretty simple:
 
 Whether you're a maker mind or manager mind [you'll hear this article referenced from time to time](https://medium.com/coaching-notes/maker-mind-vs-manager-mind-f4e01d294d34) - your team members rely on your calendar remaining accurate and up-to-date.
 
-On your personal Blooom calendar, go into the settings by clicking the gear icon in the upper right hand corner. 
+On your personal Bloom calendar, go into the settings by clicking the gear icon in the upper right hand corner. 
 
-Here are a few settings we recommend you look update:  
+Here are a few settings we recommend updating:
+
 - select your default guest permissions, we suggest that you allow guests to 'modify event'
 - set your notification settings for events
 - confirm your working hours 
