@@ -14,13 +14,15 @@ When you join Bloom (yay), you’ll be issued a google-based @bloomworks.digital
 
 This will be the main address you use to more formally communicate with our partners on projects. 
 
+## Asana
+Many project teams use Asana to track work and manage tasks. If your project team uses Asana, contact Opts for an account.
 
 ## Trello
-We use Trello to collaborate on tasks for our various projects. Each project has a separate board which we'll give you access to when you join. Each team will use Trello a bit differently, so please defer to your project lead for any team norms on how to use the project board. 
+Some project teams use Trello for project management and task tracking, and we often use Trello for internal projects such as hiring.
 
 For generic information on using Trello, [see Trello's getting started guide](https://trello.com/en-US/guide/trello-101).
 
-If you need to be invited to our organization, HR or Ops for help. 
+If you need to be invited to our organization, ask HR or Ops for help. 
 
 ## Zoom
 You can use whatever video conferencing tool is easiest for team-related calls, but we generally use Zoom for more formal calls with partners. Sometimes you will need to adjust to what a partner uses (e.g., Microsoft Teams).
