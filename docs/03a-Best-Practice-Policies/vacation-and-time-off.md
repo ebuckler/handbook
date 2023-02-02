@@ -1,37 +1,62 @@
-## We all need a break sometimes and we believe in taking the time you need for yourselves and/or your families.
+# Time off policies and practices
+
+We all need a break sometimes. We believe in taking the time you need for yourselves and your families. 
 
 You do not need to justify time off, and whenever possible please try to arrange it in advance with your project team. 
 
-### Full-time employees
+## Salaried employees
 
-- Employees who work 33+ hours per week are considered Full Time. They accrue up to 120 hours of vacation and 40 hours of sick leave each calendar year. 
--  Up to 80 hours (10 days) of unused vacation can be carried over per calendar year. These unused, accrued vacation days DO NOT aggregate year-on-year. 
--  Bloom also offers an additional 64 hours (8 days) of Floating Holiday time to be used at the employees discretion. 
--  The office is closed collectively between Xmas Eve (Dec 24) and New Years (Jan 01) and is considered holiday time outside of the Floating Holidays. If New Years falls on a weekend, the first weekday following it is deemed a work holiday. 
--  If, for any reason, you are unable to work the expected hours on your project for reasons other than PTO (if for example your project team or role on the project is blocked) please notify someone on the Bloom management team (Lauren, Emily or HR). We will help determine the right next steps.
+### How much time off do you get?
 
-### Part-time employees
+Employees who work 33+ hours per week are considered **full time**. They accrue:
 
-- Employees who work 32 or fewer hours per week will accrue a prorated amount of vacation and floating holiday time. 
-- Employees are still entitled to 80 hours (10 days) of sick time. 
-- The unused carry over rate of unused PTO and sick time will be determined upon hire, depending on the number of expected work hours.  
+- 120 hours of vacation each calendar year
+- 80 hours (10 days) of sick leave each calendar year
+- 64 hours (8 days) of floating holiday time to be used at the employee's discretion
+- Up to 40 hours of unused vacation can be carried over per calendar year. These unused, accrued vacation days DO NOT aggregate year-on-year.
 
-### Contractors
-- Please manage your schedule and take the time you need. Please give us some notice where possible and connect with us to discuss making sure our partners are aware of time off (as needed). 
+**Part-time** salaried employees who work 32 or fewer hours per week will accrue a prorated amount of vacation and floating holiday time.
 
-## Terms upon employee departure
-- ONLY unused, accrued vacation time will be paid out upon departure. 
-- All unused floating holiday and sick time will be considered forfeit. 
+- Part-time employees are still entitled to 80 hours (10 days) of sick time.
+- The unused carryover rate of unused PTO and sick time will be determined upon hire, depending on the number of expected work hours.
 
-**Whenever possible please give at least 2 weeks advance notice of planned time off, this will help us on project resourcing.**
+Sick time and floating holidays **do not** carry over from year to year. All unused sick time and floating holidays are forfeited on Dec 31.
 
-## Written documentation of time off
+The office is also closed from Christmas Day (Dec 25) through New Years (Jan 1 or whatever day New Years is observed as a federal holiday in the U.S.). This doesn't require use of floating holidays.
 
-If an employee uses PTO for sick leave, including sick leave under applicable state or local law, for more than three consecutive scheduled work days, Bloom Works may require reasonable documentation of the purpose for such leave. If the reason for time off is due to an employee's or a family member's own medical condition, verification from a health care provider is appropriate, but should not explain the nature of the condition and should not result in an unreasonable burden or expense on the employee. If the reason for time off is due to an employee's need for leave related to domestic violence, verification may include a police report, court order or other evidence from the court or a prosecuting attorney, other documentation from a victim advocate, attorney, member of the clergy, a medical or other professional, or an employee's own written statement.
+### Employee departures & pay outs
 
-Bloom Works also reserves the right to require documentation verifying an employee's need to use time off, if there are indications of a pattern of abuse, such as repeated use of unscheduled time off on or adjacent to weekends, holidays, or pay day, regardless whether the employee has used time off for more than three consecutive days.
+- Unused, accrued vacation time is paid out upon departure.
+- Unused floating holidays and sick time **are not** paid out when you leave Bloom.
 
-## Time off and other approved leave
+## Requesting time off
+
+**Whenever possible, please give your manager and project lead at least 2 weeks advance notice of planned time off. This helps us keep projects running smoothly.**
+
+When you take time off:
+
+1. Talk to your project lead (this may be a PM or an EM) and manager
+2. Request the time in Gusto (U.S. employees only)
+3. Mark any full days off in the Bloom Calendar (create a full-day or multi-day event with the title "[NAME - OOO]")
+4. Mark time off on your own calendar as an OOO block.
+
+All of this only applies for time off over half a day. For less than half a day, work with your manager to decide if you need to request it in Gusto (you may be able to simply shift your work hours a bit), and just mark it on your own calendar.
+
+## Personal leaves of absence
+
+Employees of Bloom Works, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
+
+## Parental leave
+
+Welcoming a new child is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption, or placement in foster care if the child is under the age of 18, or incapable of self-care because of a physical or mental disability) and acclimate to the new life ahead. Our policy is that expectant parents can take eight weeks of leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant parent needs additional leave, we will review requests on a case-by-case basis. All Parental Leave described in this Policy shall be available for a 12-month period following the birth or adoption of a child.
+
+For birthing parents there is also the option to use short-term disability for additional paid leave time. Please contact HR for more information on this benefit. 
+
+## Documentation, misuse, and legal stuff
+
+Bloom Works reserves the right to require documentation verifying an employee's need for time off if it is more than 3 days _or_ there are indications of a pattern of abuse, such as repeated use of unscheduled time off adjacent to weekends, holidays, or pay day. If we ask for documentation from your doctor, we do not need to know diagnoses, and do not need your medical details.
+
+### Time off and other approved leave
 
 Time off pursuant to this policy is not intended for long-term leave or as a long-term care solution. As such, exempt employees on leaves of absences for more than thirty days, including otherwise unpaid leaves of absences, will not be eligible for paid time off beyond the first thirty days. Bloom Works will require non-exempt employees to exhaust accrued, unused PTO concurrently with extended leaves of absences, including under the Family and Medical Leave Act or comparable state laws, if applicable.
 
@@ -43,15 +68,15 @@ If an employee remains absent for seven or more calendar days due to his or her 
 
 For information or questions concerning this policy and the use of time off during otherwise unpaid leaves of absence or short-term disability the employee should contact HR for assistance.
 
-## Abuse of time off
+### Abuse of time off
 
 Abuse of time off, including as legally-mandated paid sick leave, may result in disciplinary action up to and including termination. Disciplinary action may be taken if a pattern of potential abuse of time off develops, if an employee is failing to attain necessary goals for his or her position, or if an excessive number of absences occur that are beyond the scope of any approved FMLA leave, approved disability leave, or leave provided as a reasonable accommodation.
 
-## State and local paid sick leave laws
+### State and local paid sick leave laws
 
 To the extent state or local laws mandate paid sick leave, this policy is intended to ensure that eligible employees who work in those jurisdictions accrue and receive paid sick leave in accordance with those requirements. Bloom Works prohibits discrimination or retaliation against employees because of a request for time off for legally-protected paid sick leave purposes, or use of such time off. If you believe that you have been treated unfairly on account of your use of such time off, or request for such time off, please immediately report this concern to HR so that the matter may be reviewed and appropriate corrective action may be taken.
 
-## Definitions
+### Definitions
 
 For purposes of this paid time off policy, and where consistent with applicable law:
 
@@ -65,12 +90,8 @@ For purposes of this paid time off policy, and where consistent with applicable 
 
 Eligible employees should contact the PeopleOps Team with questions concerning whether any of the above definitions apply in a particular jurisdiction.
 
-## Personal leave of absence
 
-Employees of Bloom Works, including part-time employees, who have worked for at least one year may request a personal leave of absence. A leave of absence is for extended periods, typically four weeks or more, where an employee is fully or part-time away from work, for example taking courses/training, handling extended personal matters, completing a personal project, or world travel. Leaves will be discussed on a case by case basis and may be paid, partially paid or unpaid.
+## Contractors
 
-## Parental leave
-
-Welcoming a new child is an amazing time for a family and we want to support employees during this time to take the time to bond with their new child (by birth or adoption, or placement in foster care if the child is under the age of 18, or incapable of self-care because of a physical or mental disability) and acclimate to the new life ahead. Our policy is that expectant parents can take eight weeks of leave fully paid after 9 months of employment. If an employee has been at the company for less than 9 months or if for any reason the expectant parent needs additional leave, we will review requests on a case-by-case basis. All Parental Leave described in this Policy shall be available for a 12-month period following the birth or adoption of a child.
-
-For birthing parents there is also the option to use short-term disability for additional paid leave time. Please contact HR for more information on this benefit. 
+- Please manage your schedule and take the time you need. Communicate with your project lead and Engagement Manager to ensure they're aware of your working hours and time off, and can communicate those to clients as-needed.
+- Marking out-of-office time on your Bloom calendar helps your team know when you're available.
