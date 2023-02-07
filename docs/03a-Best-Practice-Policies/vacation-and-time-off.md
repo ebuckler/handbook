@@ -1,8 +1,6 @@
 # Time off policies and practices
 
-We all need a break sometimes. We believe in taking the time you need for yourselves and your families. 
-
-You do not need to justify time off, and whenever possible please try to arrange it in advance with your project team. 
+We all need a break sometimes. We believe in taking the time you need for yourselves and your families.
 
 ## Salaried employees
 
