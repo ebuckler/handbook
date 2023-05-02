@@ -1,6 +1,7 @@
 site_name: Bloom Handbook
 repo_url: https://github.com/bloom-works/handbook/
 site_url: https://bloom-handbook.readthedocs.io/
+edit_uri: 'edit/main/docs/'
 theme:
   name: readthedocs
 plugins:
