@@ -2,11 +2,11 @@
 
 ### <a name="purpose"></a>Handbook Purpose
 
-We've prepared this handbook to specify what Bloomers can expect from Bloom and what we expect from Bloomers. It describes the Bloom philosophy, working methods and processes, employment practices, policies, and benefits.
+We've prepared this handbook to specify what Bloomers can expect from Bloom and what we expect from Bloomers. It describes the Bloom philosophy, working methods and processes, employment practices, policies, and benefits. As odf May 2023, it is under construction, so pardon our dust.
 
 ## License
 
-Copyright 2021 Bloom.
+Copyright 2023 Bloom.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](LICENSE.md).
 
