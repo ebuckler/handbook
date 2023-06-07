@@ -7,7 +7,7 @@
 - PTO: 15 days a year*
 - Holiday: closed between Dec 24 and Jan 01
 - Floating holiday: 8 days*
-- Sick days: 5 days*
+- Sick days: 10 days*
 - Equipment stipend: One time $1,000 stipend* 
 - Professional development: $2,000 per year including conferences and travel*
 - ST/LT disability 
